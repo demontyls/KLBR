@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KLBR/static/css/main.52cbb7f3.css",
+    "main.js": "/KLBR/static/js/main.c6fd0189.js",
+    "index.html": "/KLBR/index.html",
+    "main.52cbb7f3.css.map": "/KLBR/static/css/main.52cbb7f3.css.map",
+    "main.c6fd0189.js.map": "/KLBR/static/js/main.c6fd0189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cbb7f3.css",
+    "static/js/main.c6fd0189.js"
+  ]
+}
